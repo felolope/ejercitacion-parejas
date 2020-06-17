@@ -1,0 +1,1 @@
+let doble= num => num*2;
